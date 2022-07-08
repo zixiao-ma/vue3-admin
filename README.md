@@ -25,8 +25,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 1.登陆页面效果
 
-![image-20220708170547683](C:\Users\ma'zi'xiao\AppData\Roaming\Typora\typora-user-images\image-20220708170547683.png)
+![](./img/image-20220708170547683.png)
 
 ### 2.首页演示
 
-![image-20220708170657991](C:\Users\ma'zi'xiao\AppData\Roaming\Typora\typora-user-images\image-20220708170657991.png)
+![](./img/image-20220708170657991.png)
