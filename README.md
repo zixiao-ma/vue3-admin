@@ -23,10 +23,8 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 1.登陆页面效果
+### 项目展示
 
 ![](./img/image-20220708170547683.png)
-
-### 2.首页演示
 
 ![](./img/image-20220708170657991.png)
